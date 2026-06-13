@@ -1,0 +1,22 @@
+# Python virtual environment
+faceenv/
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+#.mp4 file
+Face_Recognisation_based_safety_locker_system.mp4 
+##Deleted this file as it was too large to be uploaded on GitHub.
