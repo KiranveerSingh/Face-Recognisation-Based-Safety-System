@@ -86,12 +86,17 @@ FACE-RECOGNISATION-BASED-SAFETY-SYSTEM/
 │   ├── face_lock.py
 │   ├── model_training.py
 │   ├── trainer.yml
-│   └── faceenv/ (ignored via .gitignore)
+│   ├── .vscode/
+│   └── faceenv/            (ignored via .gitignore)
 │
-├── .gitignore
+├── Circuit-Diagram.png
+├── DEMO_VIDEO_LINK.txt
+├── Face_Recognisation_based_safety_locker_system.mp4  (ignored via .gitignore due to its large size)
+├── How I made it.md
 ├── LICENSE
 ├── README.md
-└── Face_Recognisation_based_safety_locker_system.mp4 (Demo Video) (ignored via .gitignore due to its large size)
+├── requirements.txt
+└── .gitignore
 
 ---
 
