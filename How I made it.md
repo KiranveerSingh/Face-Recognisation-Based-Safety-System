@@ -145,15 +145,19 @@ This makes the project easy to use without running multiple commands.
 The project was tested in different situations:
 
 ### Authorized User
+
 Result: Locker unlocked successfully.
 
 ### Unauthorized User
+
 Result: Buzzer activated.
 
 ### No Face Detected
+
 Result: No action taken.
 
 ### Auto Lock
+
 Result: Locker automatically locked after a few seconds.
 
 ---
@@ -165,6 +169,7 @@ Result: Locker automatically locked after a few seconds.
 Face recognition accuracy decreased in poor lighting.
 
 Solution:
+
 - Improved room lighting.
 - Adjusted camera position.
 
@@ -173,6 +178,7 @@ Solution:
 Communication between Python and Arduino occasionally failed.
 
 Solution:
+
 - Proper COM port configuration.
 - Added delays where necessary.
 
@@ -181,6 +187,7 @@ Solution:
 Arduino could not directly drive the solenoid.
 
 Solution:
+
 - Used relay module and external 12V adapter.
 
 ---

@@ -26,12 +26,14 @@ The project combines Computer Vision, Machine Learning, Arduino, and Hardware In
 ## Technologies Used
 
 ### Software
+
 - Python
 - OpenCV
 - Streamlit
 - PySerial
 
 ### Hardware
+
 - Arduino Uno
 - Relay Module
 - 12V Solenoid Lock
@@ -61,14 +63,13 @@ The project combines Computer Vision, Machine Learning, Arduino, and Hardware In
 
 ## Hardware Connections
 
-| Component | Arduino Pin |
-|------------|------------|
-| Relay IN | D8 |
-| Buzzer IN | D9 |
-| Relay VCC | 5V |
-| Relay GND | GND |
-| Buzzer VCC | 5V |
-| Buzzer GND | GND |
+| Component   | Arduino Pin |
+| Relay IN    | D8          |
+| Buzzer IN   | D9          |
+| Relay VCC   | 5V          |
+| Relay GND   | GND         |
+| Buzzer VCC  | 5V          |
+| Buzzer GND  | GND         |
 
 ---
 
